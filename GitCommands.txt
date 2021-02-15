@@ -1,0 +1,5 @@
+git status #check current status of repositry
+git add -A #Adds altered and untracked files staging area
+git commit -am '(message)' #commit change with message
+git push #push commited changes up to GitHub 
+git pull #pull any changes from GitHub down to local repositry 
